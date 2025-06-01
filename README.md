@@ -4,12 +4,18 @@
     alt="Typing SVG"/>
 </h1>
 
-## About me
-- Studying Software Engineering at the University of Guelph
-- Worked at Linamar Corporation 4 times, every summer since I was 16
-- I design with video editing softwares like Adobe After Effects and DaVinci Resolve
-- I enjoy working out, travelling, and playing basketball
+---
 
-## Contact Me
-[LinkedIn](https://www.linkedin.com/in/louisnguyenn/)   
-[Email](mailto:lnguye25@uoguelph.ca)  
+## 👨‍💻 About Me
+
+- 🎓 Studying **Software Engineering** at the **University of Guelph**
+- 🏭 Worked at **Linamar Corporation** for 4 summers — since I was 16
+- 🎬 Self-taught **digital visual effects** design tools like *Adobe After Effects* and *DaVinci Resolve*
+- 🏋️ I enjoy **working out**, **traveling**, and **playing basketball**
+
+---
+
+## 📬 Contact Me
+
+- [📎 LinkedIn](https://www.linkedin.com/in/louisnguyenn/)
+- [📧 Email](mailto:lnguye25@uoguelph.ca)
