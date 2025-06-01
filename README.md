@@ -1,6 +1,6 @@
 <h1 align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1002&color=FFFFFF&center=false&vCenter=true&width=435&lines=Hi,+I'm+Louis+Nguyen+%F0%9F%91%8B" 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1002&color=FFFFFF&center=false&vCenter=true&width=435&lines=Hi,+I'm+Louis+Nguyen" 
     alt="Typing SVG"/>
 </h1>
 
