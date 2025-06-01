@@ -11,5 +11,5 @@
 - I enjoy working out, travelling, and playing basketball
 
 ## Contact Me
-→ [LinkedIn](https://www.linkedin.com/in/louisnguyenn/)   
-→ [Email](mailto:lnguye25@uoguelph.ca)  
+[LinkedIn](https://www.linkedin.com/in/louisnguyenn/)   
+[Email](mailto:lnguye25@uoguelph.ca)  
