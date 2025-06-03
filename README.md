@@ -8,10 +8,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying **Software Engineering** at the **University of Guelph**
-- 🏭 Worked at **Linamar Corporation** for 4 summers — since I was 16
-- 🎬 Self-taught **digital visual effects** design tools like *Adobe After Effects* and *DaVinci Resolve*
-- 🏋️ I enjoy **working out**, **traveling**, and **playing basketball**
+- Studying Software Engineering at the University of Guelph
+- Passionate about AI and machine learning
+- I enjoy working out, travelling, and playing basketball
 
 ---
 
