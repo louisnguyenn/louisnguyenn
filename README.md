@@ -4,17 +4,9 @@
     alt="Typing SVG"/>
 </h1>
 
----
+Studying Software Engineering at the University of Guelph
 
-## 👨‍💻 About Me
+## Contact Me
 
-- Studying Software Engineering at the University of Guelph
-- Passionate about AI and machine learning
-- I enjoy working out, travelling, and playing basketball
-
----
-
-## 📬 Contact Me
-
-- [📎 LinkedIn](https://www.linkedin.com/in/louisnguyenn/)
-- [📧 Email](mailto:lnguye25@uoguelph.ca)
+[📎 LinkedIn](https://www.linkedin.com/in/louisnguyenn/)  
+[📧 Email](mailto:lnguye25@uoguelph.ca)
