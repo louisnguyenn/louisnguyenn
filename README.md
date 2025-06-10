@@ -4,9 +4,18 @@
     alt="Typing SVG"/>
 </h1>
 
-Studying Software Engineering at the University of Guelph
+🎓 **Engineering Systems & Computing Student @ University of Guelph**  
 
-## Contact Me
+---
 
-[📎 LinkedIn](https://www.linkedin.com/in/louisnguyenn/)  
-[📧 Email](mailto:lnguye25@uoguelph.ca)
+### 🛠️ My Tech Stack
+- **Languages:** C, Python, HTML/CSS, JavaScript, SQL 
+- **Frameworks/Libraries:** Pandas, Matplotlib, Seaborn, React, Tailwind, Bootstrap
+- **Development Tools:** Git, GitHub, VS Code, Linux, Bash, Microsoft Excel, PostgreSQL, Cursor
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louisnguyenn/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lnguye25@uoguelph.ca)
