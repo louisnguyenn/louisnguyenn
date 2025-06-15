@@ -12,7 +12,7 @@
 ### 🛠️ My Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,tailwind,bootstrap,git,github,linux,bash,vscode,postgres" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,vite,tailwind,bootstrap,git,github,linux,bash,vscode,postgres" alt="Tech Stack Icons"/>
 </div>
 </br>
   
