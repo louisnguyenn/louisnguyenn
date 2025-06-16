@@ -5,7 +5,7 @@
 ![Gaming Image](image.jpg)
 
 ### About Me
-🎓 Currently studying Engineering Systems & Computing at the University of Guelph
+🎓 Currently studying Engineering Systems & Computing at the University of Guelph  
 💡 Passionate about combining software and hardware to build meaningful systems and solve real world problems
 
 ---
