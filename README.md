@@ -4,6 +4,7 @@
 
 ![Gaming Image](image.jpg)
 
+### About Me
 🎓 **Engineering Systems & Computing Student @ University of Guelph**  
 💡 Passionate about combining software and hardware to build meaningful systems and solve real world problems
 
@@ -12,17 +13,10 @@
 ### 🛠️ My Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,vite,tailwind,bootstrap,git,github,linux,bash,vscode,postgres" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,vite,tailwind,bootstrap,git,github,gitlab,linux,bash,vscode,sublime,postgres,vercel,nodejs" alt="Tech Stack Icons"/>
 </div>
 </br>
-  
-- **Other Tools & Libraries:** Pandas, Matplotlib, Seaborn, Microsoft Excel, Cursor
 
-<!--
-- **Languages:** C, Python, HTML/CSS, JavaScript, SQL 
-- **Frameworks/Libraries:** Pandas, Matplotlib, Seaborn, React, Tailwind, Bootstrap
-- **Development Tools:** Git, GitHub, VS Code, Linux, Bash, Microsoft Excel, PostgreSQL, Cursor
--->
 ---
 
 ### 📬 Let's Connect
