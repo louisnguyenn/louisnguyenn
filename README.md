@@ -9,7 +9,7 @@
 ![Gaming Image](image.jpg)
 
 ### About Me
-🎓 Currently studying <a href="https://www.uoguelph.ca/programs/engineering-systems-and-computing/" target="_blank">Engineering Systems & Computing</a> at the <a href="https://www.uoguelph.ca/" target="_blank">University of Guelph</a>  
+🎓 Currently studying Engineering Systems & Computing at the University of Guelph  
 💡 Passionate about combining software and hardware to build meaningful systems and solve real world problems
 
 ---
