@@ -12,6 +12,7 @@
 🎓 Currently studying Engineering Systems & Computing at the University of Guelph  
 💡 Passionate about combining software and hardware to build meaningful systems and solve real world problems
 
+<!--
 ---
 
 ### 🛠️ My Tech Stack
@@ -20,6 +21,7 @@
   <img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,vite,tailwind,bootstrap,git,github,gitlab,linux,bash,vscode,sublime,postgres,vercel,nodejs" alt="Tech Stack Icons"/>
 </div>
 </br>
+-->
 
 ---
 
