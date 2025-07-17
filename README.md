@@ -7,9 +7,9 @@
 </div>
 
 ## 💫 About Me
-- Currently studying Engineering Systems & Computing at the University of Guelph  
+- Currently studying Engineering Systems and Computing at the University of Guelph  
 - Passionate about combining software and hardware to build meaningful systems and solve real world problems
-- Interested in AI/ML and data science
+- Interested in AI/ML, data science, and creating full-stack applications
 - Enjoy physical and competitive activities
 
 ---
