@@ -8,8 +8,6 @@
 
 ## 💫 About Me
 - Currently studying **Engineering Systems and Computing** at the **University of Guelph**  
-- Passionate about combining software and hardware to build meaningful systems and solve real world problems
-- Interested in AI/ML, data science, and creating full-stack applications
 - Enjoy physical and competitive activities like powerlifting and basketball
 
 ---
