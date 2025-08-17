@@ -6,13 +6,13 @@
     <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif" alt="Animation GIF" width="100%">
 </div>
 
-## 💫 About Me
+## About Me
 - Currently studying **Engineering Systems and Computing** at the **University of Guelph**  
 - Enjoy physical and competitive activities like powerlifting and basketball
 
 ---
 
-## 🛠 My Skills and Tools
+## My Skills and Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,7 +33,8 @@
 
 --- 
 
-## 📬 Let's Connect
+## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louisnguyenn/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louis.nguyen550@gmail.com)
+→ [LinkedIn](https://www.linkedin.com/in/louisnguyenn/)  
+→ [Email](mailto:louis.nguyen550@gmail.com)  
+→ [louisnguyen.me](https://www.louisnguyen.me/)
