@@ -16,7 +16,7 @@
 ## 🚀 What I'm Up To
 
 - Building full-stack applications with React and Express.js/Flask
-- Exploring machine and deep learning with [scikit-learn](https://scikit-learn.org/)
+- Exploring machine and deep learning with scikit-learn
 
 Check out my personal portfolio!  
 → [louisnguyen.me](https://www.louisnguyen.me/)
