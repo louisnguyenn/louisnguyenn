@@ -11,12 +11,12 @@
 ## 💫 About Me
 - Passionate about building efficient software solutions that bridge hardware and software
 - Currently studying [Engineering Systems and Computing](https://www.uoguelph.ca/programs/engineering-systems-and-computing/) at the [University of Guelph](https://www.uoguelph.ca/)
-- Enjoy physical and competitive activities like powerlifting and basketball
+- Enjoy physical and competitive activities like powerlifting, basketball, and badminton
 
 ## 🚀 What I'm Up To
 
 - Building full-stack applications with React and Express.js/Flask
-- Exploring machine and deep learning with scikit-learn
+- Exploring machine learning with scikit-learn
 
 Check out my personal portfolio!  
 → [louisnguyen.me](https://www.louisnguyen.me/)
