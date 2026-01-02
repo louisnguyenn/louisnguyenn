@@ -1,10 +1,12 @@
-<h1 align="left">
+<!-- <h1 align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1002&color=FFFFFF&center=false&vCenter=true&width=435&lines=Hi%2C+I'm+Louis+Nguyen+%F0%9F%91%8B" alt="Hi, I'm Louis Nguyen" /></a>
-</h1>
+</h1> -->
 
 <!-- <div style="text-align: center;">
     <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif" alt="Animation GIF" width="100%">
 </div> -->
+
+# Hi, I'm Louis Nguyen 👋
 
 ## 💫 About Me
 - Studying [Engineering Systems and Computing](https://www.uoguelph.ca/programs/engineering-systems-and-computing/) at the [University of Guelph](https://www.uoguelph.ca/)
@@ -12,8 +14,9 @@
 
 ## 🚀 What I'm Up To
 
-- Building full-stack applications with Next.js, React, and Express.js
-- Exploring machine learning with scikit-learn
+- Building full-stack applications with React and Next.js
+- Diving into machine learning for data predictions and analysis with scikit-learn
+- Exploring devops, software architecture, and cloud computing
 - Bridging hardware and software with Arduino and C++
 
 Check out my personal portfolio!  
