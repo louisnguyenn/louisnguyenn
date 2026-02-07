@@ -12,13 +12,6 @@
 - Studying [Engineering Systems and Computing](https://www.uoguelph.ca/programs/engineering-systems-and-computing/) at the [University of Guelph](https://www.uoguelph.ca/)
 - Passionate about building robust hardware and software applications
 
-## 🚀 What I'm Up To
-
-- Building full-stack applications with React and Next.js
-- Diving into machine learning for data predictions and analysis with scikit-learn
-- Exploring devops, software architecture, and cloud computing
-- Bridging hardware and software with Arduino and C++
-
 Check out my personal portfolio!  
 → [louisnguyen.me](https://www.louisnguyen.me/)
 
