@@ -8,11 +8,11 @@
 
 # Hi, I'm Louis Nguyen 👋
 
-## 💫 About Me
-- Studying [Engineering Systems and Computing](https://www.uoguelph.ca/programs/engineering-systems-and-computing/) at the [University of Guelph](https://www.uoguelph.ca/)
-- Passionate about building robust hardware and software applications
+## I'm currently...
+- studying engineering at [uoguelph](https://www.uoguelph.ca/)
+- learning web app development and low-level systems programming 
 
-Check out my personal portfolio!  
+Check out my personal portfolio   
 → [louisnguyen.me](https://www.louisnguyen.me/)
 
 <!--
@@ -44,7 +44,9 @@ Check out my personal portfolio!
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 -->
 
+<!--
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louisnguyenn/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louis.nguyen550@gmail.com)
+-->
