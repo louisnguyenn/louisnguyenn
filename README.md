@@ -4,13 +4,13 @@
 
 # Hi, I'm Louis Nguyen 👋
 
-<div align="center">
+<!-- <div align="center">
     <img 
         src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif" 
         alt="Animation GIF"
         width="100%"
     />
-</div>
+</div> -->
 
 
 ### I'm currently...
