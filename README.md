@@ -21,5 +21,5 @@ Check out my personal website
 → [louisnguyen.me](https://www.louisnguyen.me/)
 
 ### 📫 Let's Connect
-→ https://www.linkedin.com/in/louisnguyenn/  
-→ lnguye25@uoguelph.ca
+- [linkedin.com/in/louisnguyenn/](https://www.linkedin.com/in/louisnguyenn/)
+- lnguye25@uoguelph.ca
