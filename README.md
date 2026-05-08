@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1002&color=FFFFFF&center=false&vCenter=true&width=435&lines=Hi%2C+I'm+Louis+Nguyen+%F0%9F%91%8B" alt="Hi, I'm Louis Nguyen" /></a>
 </h1> -->
 
-# Hi, I'm Louis Nguyen 👋
+# Hi, I'm Louis Nguyen
 
 <!-- <div align="center">
     <img 
@@ -15,7 +15,7 @@
 
 ### I'm currently...
 - studying engineering at [uoguelph](https://www.uoguelph.ca/)
-- learning about embedded systems, low-level systems programming, and web app development
+- learning about robotics programming, systems programming, and embedded systems
 
 Check out my personal website   
 → [louisnguyen.me](https://www.louisnguyen.me/)
