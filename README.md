@@ -15,6 +15,6 @@
 
 ### I'm currently...
 - studying engineering systems and computing at [uoguelph](https://www.uoguelph.ca/)
-- learning about robotics programming, systems programming, and embedded systems
+- learning about industrial automation, robotics programming, and embedded systems
 
 Visit my personal website: [louisnguyen.me](https://www.louisnguyen.me/)
