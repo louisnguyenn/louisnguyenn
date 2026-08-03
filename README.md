@@ -9,7 +9,7 @@
         width="100%"
     />
 </div> -->
-### Hi, I'm Louis Nguyen 👋
+## Hi, I'm Louis Nguyen 👋
 
 - engineering systems and computing @&nbsp; <sub><a href="https://www.uoguelph.ca/"><img width="20" alt="university_of_guelph_logo" src="https://github.com/user-attachments/assets/3df35ed5-2002-4b43-b252-36428fc38357" /></a></sub> **University of Guelph**
 - learning industrial automation software development and AI-driven robotic manufacturing systems
