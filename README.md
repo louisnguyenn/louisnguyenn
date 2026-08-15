@@ -26,4 +26,4 @@
 <br>
 <sub>
     <img width="18" alt="website" src="https://github.com/user-attachments/assets/9a9a11b2-c79c-429c-90c7-5fb559497df7" />
-  </sub> website: <a href="louisnguyen.me">louisnguyen.me</a>
+  </sub> website: <a href="https://www.louisnguyen.me">louisnguyen.me</a>
